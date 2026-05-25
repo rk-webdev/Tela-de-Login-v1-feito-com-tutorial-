@@ -5,10 +5,10 @@ youtube, pretendo fazer uma nova versão melhorada
 e sem ajuda completa de IA ou tutoriais. 
 Em breve irei postar aqui também!
 
-##Elementos usados
+## Elementos usados
 - HTMML5
 - CSS3
 
-##Autor
+## Autor
 
 - rk-webdev.
